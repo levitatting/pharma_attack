@@ -118,7 +118,7 @@ Important. Do not use distance alone as the success metric. Distances are useful
 
 - Before asking another teammate to reproduce, run the scenario once from a clean shell and once after reset_attack_lab.py.
 
-# 8. What teammates should change for common goals
+# 8. What should change
 
 | Teammate goal | Primary files to edit | What to change |
 | --- | --- | --- |
